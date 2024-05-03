@@ -1,1 +1,2 @@
 # License-Plate-Recognition-with-OpenCV-and-Tesseract-OCR.
+The model detects the number plate from the image with Tesseract OCR and Open CV. Tesseract OCR is an Optical Character Recognition Engine to automatically recognize text in vehicle registration plates. Pytesseract is an OCR tool for python. It recognizes and read the text embedded in images. OpenCV is an open source computer vision library with more than 2500 optimized algorithms.
